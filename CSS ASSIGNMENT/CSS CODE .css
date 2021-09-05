@@ -1,24 +1,38 @@
-h2.a {
-    visibility: visible;
-  }
-  
-  h2.b {
-    visibility: hidden;
-  }
+.center {
+    margin: auto;
+    background: lime;
+    width: 66%;
+    }
+    
+    .outside {
+    margin: 3rem 0 0 -3rem;
+    background: cyan;
+    width: 66%;
+    }
 
-  table, td {
-    border: 1px solid black;
-  }
-  
-  tr.collapse {
-    visibility: collapse;
-  }
 
-  
-p {color: rgb(6, 237, 253);}
+h1{
+    color:green;
+}
+p1{
+    class: center;
+}
+p2{
+    class: outside;
+}
 
-p.ex1 {display: none;}
-p.ex2 {display: inline;}
-p.ex3 {display: block;}
-p.ex4 {display: content;}
-p.ex5 {display: list-item;}
+h2{
+
+    color:green;
+}
+
+
+h4 {
+        background-color: lime;
+       padding: 20px 50px;
+}
+         
+h3 {
+       background-color: cyan;
+       padding: 110px 50px 50px 110px;
+}
