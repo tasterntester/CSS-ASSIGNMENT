@@ -1,0 +1,6 @@
+#example1 {
+    background-image: url(https://venturebeat.com/wp-content/uploads/2016/02/Taco-Party.gif?w=1200&strip=all), url(https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 100px;
+  }
