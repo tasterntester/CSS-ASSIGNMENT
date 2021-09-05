@@ -1,0 +1,24 @@
+h2.a {
+    visibility: visible;
+  }
+  
+  h2.b {
+    visibility: hidden;
+  }
+
+  table, td {
+    border: 1px solid black;
+  }
+  
+  tr.collapse {
+    visibility: collapse;
+  }
+
+  
+p {color: rgb(6, 237, 253);}
+
+p.ex1 {display: none;}
+p.ex2 {display: inline;}
+p.ex3 {display: block;}
+p.ex4 {display: content;}
+p.ex5 {display: list-item;}
