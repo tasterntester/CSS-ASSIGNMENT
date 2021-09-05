@@ -1,0 +1,28 @@
+h1 {
+     color:blue;
+}
+
+p1 {
+    color:red;
+}
+
+h2 { 
+    font-family:verdana;
+}
+p2{
+    font-family:courier;
+}
+
+h3 { 
+    font-size:300%;
+}
+p3 {
+    font-size:160%;
+}
+
+h4 { 
+    text-align:center;
+}
+p4 { 
+    text-align:center;
+}
